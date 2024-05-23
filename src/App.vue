@@ -254,19 +254,19 @@ export default {
         id: 1,
         name: "Guitar",
         description: "High-quality acoustic guitar",
-        image: "./assets/guitar.jpeg",
+        image: "../src/assets/guitar.jpeg",
       },
       {
         id: 2,
         name: "Drum Set",
         description: "Complete drum set with cymbals",
-        image: "./assets/drum.jpeg",
+        image: "../src/assets/drum.jpeg",
       },
       {
         id: 3,
         name: "piano",
         description: "Electronic keyboard with 88 keys",
-        image: "./assets/piano.jpeg",
+        image: "../src/assets/piano.jpeg",
       },
       {
         id: 4,
