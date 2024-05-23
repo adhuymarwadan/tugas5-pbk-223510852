@@ -314,7 +314,7 @@ export default {
         id: 11,
         name: "Electric Guitar",
         description: "High Quality and the best product",
-        image: "./assets/electricgitar.jpg",
+        image: "../src/assets/electricgitar.jpg",
       },
       {
         id: 12,
